@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpayla&" alt="sahilpayla" /></p>
 
 
-<img align="right" alt="Coding" width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UWIMRf-Q--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
+<img align="center" alt="Coding" width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UWIMRf-Q--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
