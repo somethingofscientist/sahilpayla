@@ -29,27 +29,27 @@
 <!-- batman -->
 <!-- <img align="center" alt="Coding" width="1000" src="https://pa1.narvii.com/6171/768cdde177d20a378828b302efab1a919e5c06fb_hq.gif"> -->
 
+<div>
 
-
-         <p>
+         <div>
             <img align="center"
                src="https://github-readme-stats.vercel.app/api?username=sahilpayla&show_icons=true&locale=en"
                alt="sahilpayla" />
-         </p>
+         </div>
 
-         <p style="padding:0 20px">
+         <div style="padding:0 20px">
             <img align="center"
                src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilpayla&show_icons=true&locale=en&layout=compact"
                alt="sahilpayla" />
-         </p>
+         </div>
 
-         <p>
+         <div>
             <img align="center"
                src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpayla&"
                alt="sahilpayla" />
-         </p>
+         </div>
 
-
+</div
 
 
 <!-- Snake -->
