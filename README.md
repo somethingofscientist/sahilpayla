@@ -27,7 +27,7 @@
 
 
 <!-- batman -->
-<p style="display: flex; justify-content: center;">
+<p display= "flex" justify-content:"center">
    <img text-align="center" alt="Coding" width="500" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704.4-lawcta.gif">
 </p>
 
