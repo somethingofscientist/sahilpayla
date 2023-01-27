@@ -27,14 +27,17 @@
 
 
 <!-- batman -->
-<!-- <img align="center" alt="Coding" width="1000" src="https://pa1.narvii.com/6171/768cdde177d20a378828b302efab1a919e5c06fb_hq.gif"> -->
+<img align="center" alt="Coding" width="1000" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704.4-lawcta.gif">
 
 
+<div style="display:flex">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilpayla&show_icons=true&locale=en&layout=compact" alt="sahilpayla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilpayla&show_icons=true&locale=en" alt="sahilpayla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilpayla&show_icons=true&locale=en" alt="sahilpayla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpayla&" alt="sahilpayla" /></p>
+</div>
+
 
 <!-- Snake -->
 <img align="left" alt="Coding" width="1000" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5b433f4e157d144d10438335260d82ee341f44e1/resources/img/grid-snake.svg">
