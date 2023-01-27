@@ -27,10 +27,10 @@
 
 
 <!-- batman -->
-<img align="center" alt="Coding" width="1000" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704.4-lawcta.gif">
+<img align="center" alt="Coding" width="500" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704.4-lawcta.gif">
 
 
-<div style="display:flex">
+<div style="display:grid">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilpayla&show_icons=true&locale=en&layout=compact" alt="sahilpayla" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilpayla&show_icons=true&locale=en" alt="sahilpayla" /></p>
