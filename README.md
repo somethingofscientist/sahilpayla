@@ -36,17 +36,17 @@
       alt="sahilpayla" />
 </p>
 
-<!--          <div style="padding:0 20px">
-            <img align="center"
-               src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilpayla&show_icons=true&locale=en&layout=compact"
-               alt="sahilpayla" />
-         </div>
+<div style="padding:0 20px">
+   <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilpayla&show_icons=true&locale=en&layout=compact"
+      alt="sahilpayla" />
+</div>
 
-         <div>
-            <img align="center"
-               src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpayla&"
-               alt="sahilpayla" />
-         </div> -->
+<div>
+   <img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpayla&"
+      alt="sahilpayla" />
+</div>
 
 
 
