@@ -29,7 +29,6 @@
 <!-- batman -->
 <!-- <img align="center" alt="Coding" width="1000" src="https://pa1.narvii.com/6171/768cdde177d20a378828b302efab1a919e5c06fb_hq.gif"> -->
 
-<div>
 
          <div>
             <img align="center"
@@ -49,7 +48,7 @@
                alt="sahilpayla" />
          </div>
 
-</div
+
 
 
 <!-- Snake -->
