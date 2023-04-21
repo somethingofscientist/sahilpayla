@@ -4,9 +4,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpayla&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpayla" /> </p>
 
-- 📫 How to reach me **1shraddhanand@gmail.com**
-
-- ⚡ Fun fact **HTML, CSS & JS is my True Love**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
