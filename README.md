@@ -42,4 +42,4 @@
 
 
 <!-- Snake -->
-<img align="left" alt="Coding" width="1000" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5b433f4e157d144d10438335260d82ee341f44e1/resources/img/grid-snake.svg">
+<!-- <img align="left" alt="Coding" width="1000" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5b433f4e157d144d10438335260d82ee341f44e1/resources/img/grid-snake.svg"> -->
